@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static-deploy-pavo/static/css/main.d8f5e53f.chunk.css",
+    "main.js": "/static-deploy-pavo/static/js/main.50632e76.chunk.js",
+    "main.js.map": "/static-deploy-pavo/static/js/main.50632e76.chunk.js.map",
+    "runtime-main.js": "/static-deploy-pavo/static/js/runtime-main.29b02a70.js",
+    "runtime-main.js.map": "/static-deploy-pavo/static/js/runtime-main.29b02a70.js.map",
+    "static/js/2.295043b2.chunk.js": "/static-deploy-pavo/static/js/2.295043b2.chunk.js",
+    "static/js/2.295043b2.chunk.js.map": "/static-deploy-pavo/static/js/2.295043b2.chunk.js.map",
+    "index.html": "/static-deploy-pavo/index.html",
+    "precache-manifest.4dbcde535327d1a887c12e20b578da04.js": "/static-deploy-pavo/precache-manifest.4dbcde535327d1a887c12e20b578da04.js",
+    "service-worker.js": "/static-deploy-pavo/service-worker.js",
+    "static/css/main.d8f5e53f.chunk.css.map": "/static-deploy-pavo/static/css/main.d8f5e53f.chunk.css.map",
+    "static/js/2.295043b2.chunk.js.LICENSE.txt": "/static-deploy-pavo/static/js/2.295043b2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29b02a70.js",
+    "static/js/2.295043b2.chunk.js",
+    "static/css/main.d8f5e53f.chunk.css",
+    "static/js/main.50632e76.chunk.js"
+  ]
+}
